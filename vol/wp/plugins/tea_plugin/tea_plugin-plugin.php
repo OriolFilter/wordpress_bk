@@ -20,17 +20,7 @@ function my_thank_you_text ( $content ) {
         'numberposts'	=> 20,
         'category'		=> 4
     );
-    $my_posts = get_posts( $args );
-    if( ! empty( $my_posts ) ){
-        $output = '<ul>';
-        foreach ( $my_posts as $p ){
-            $output .= '<li><a href="' . get_permalink( $p->ID ) . '">'
-                . $p->post_title . '</a></li>';
-        }
-        $output .= '<ul>';
-    }
     $my_posts = get_posts( array( 'author' => 1 ) );
-
     $id='';
     while (!$id) {
         $n=random_int ( 0 , count($my_posts) );
