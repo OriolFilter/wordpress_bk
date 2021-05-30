@@ -16,10 +16,6 @@ function my_thank_you_text ( $content ) {
     if (date('H') == 17) {
         return $content .= '<p>Since it\'s teatime in the UK, you might want to check this: <a>http://localhost:8000/wp-admin/options-permalink.php</a>';
     }
-    $args = array(
-        'numberposts'	=> 20,
-        'category'		=> 4
-    );
     $my_posts = get_posts( array( 'author' => 1 ) );
     $id='';
     while (!$id) {
