@@ -1,0 +1,473 @@
+# Translation of Themes - Baskerville in English (UK)
+# This file is distributed under the same license as the Themes - Baskerville package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-04-16 14:01:42+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: en_GB\n"
+"Project-Id-Version: Themes - Baskerville\n"
+
+#. Description of the theme
+msgid "Baskerville is a beautiful, responsive and retina-ready masonry theme for hoarders. It's the perfect way to showcase your posts, videos, images and galleries, and share your favorite quotes and links. Features responsive design, retina-ready assets, full-width header image, Block Editor support, support for all post formats, custom logo upload, custom widgets for Flickr and Dribbble, four page templates (including a contributors template), editor styling, like functionality via the ZillaLikes plugin and translation-ready code. Demo: https://www.andersnoren.se/themes/baskerville/"
+msgstr "Baskerville is a beautiful, responsive and retina-ready masonry theme for hoarders. It's the perfect way to showcase your posts, videos, images and galleries, and share your favourite quotes and links. Features responsive design, retina-ready assets, full-width header image, Block Editor support, support for all post formats, custom logo upload, custom widgets for Flickr and Dribbble, four page templates (including a contributors template), editor styling, like functionality via the ZillaLikes plugin and translation-ready code. Demo: https://www.andersnoren.se/themes/baskerville/"
+
+#. Theme Name of the theme
+msgid "Baskerville"
+msgstr "Baskerville"
+
+#: header.php:119
+msgid "Toggle search field"
+msgstr "Toggle search field"
+
+#: header.php:25
+msgid "Skip to the content"
+msgstr "Skip to the content"
+
+#: functions.php:423
+msgid "Day"
+msgstr "Day"
+
+#: functions.php:386
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Chats"
+
+#: functions.php:384
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Audio"
+
+#: functions.php:382
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Statuses"
+
+#: functions.php:380
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Links"
+
+#: functions.php:378
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Quotes"
+
+#: functions.php:376
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Videos"
+
+#: functions.php:374
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Images"
+
+#: functions.php:372
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galleries"
+
+#: functions.php:370
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Asides"
+
+#: searchform.php:9
+msgid "Search for:"
+msgstr "Search for:"
+
+#: index.php:15
+msgid "Page %1$s of %2$s"
+msgstr "Page %1$s of %2$s"
+
+#: functions.php:683
+msgctxt "Short name of the larger font size in the Gutenberg editor."
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:682
+msgctxt "Name of the larger font size in Gutenberg"
+msgid "Larger"
+msgstr "Larger"
+
+#: functions.php:677
+msgctxt "Short name of the large font size in the Gutenberg editor."
+msgid "L"
+msgstr "L"
+
+#: functions.php:676
+msgctxt "Name of the large font size in Gutenberg"
+msgid "Large"
+msgstr "Large"
+
+#: functions.php:671
+msgctxt "Short name of the regular font size in the Gutenberg editor."
+msgid "M"
+msgstr "M"
+
+#: functions.php:670
+msgctxt "Name of the regular font size in Gutenberg"
+msgid "Regular"
+msgstr "Regular"
+
+#: functions.php:665
+msgctxt "Short name of the small font size in the Gutenberg editor."
+msgid "S"
+msgstr "S"
+
+#: functions.php:664
+msgctxt "Name of the small font size in Gutenberg"
+msgid "Small"
+msgstr "Small"
+
+#: functions.php:654
+msgctxt "Name of the white color in the Gutenberg palette"
+msgid "White"
+msgstr "White"
+
+#: functions.php:649
+msgctxt "Name of the light gray color in the Gutenberg palette"
+msgid "Light Gray"
+msgstr "Light Grey"
+
+#: functions.php:644
+msgctxt "Name of the medium gray color in the Gutenberg palette"
+msgid "Medium Gray"
+msgstr "Medium Grey"
+
+#: functions.php:639
+msgctxt "Name of the dark gray color in the Gutenberg palette"
+msgid "Dark Gray"
+msgstr "Dark Grey"
+
+#: functions.php:634
+msgctxt "Name of the black color in the Gutenberg palette"
+msgid "Black"
+msgstr "Black"
+
+#: functions.php:629
+msgctxt "Name of the cyan color in the Gutenberg palette"
+msgid "Cyan"
+msgstr "Cyan"
+
+#: functions.php:107 functions.php:140 functions.php:708
+msgctxt "Google Fonts: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:56
+msgid "Primary Menu"
+msgstr "Primary Menu"
+
+#: template-contributors.php:74
+msgid "%s post"
+msgid_plural "%s posts"
+msgstr[0] "%s post"
+msgstr[1] "%s posts"
+
+#: functions.php:530
+msgctxt "[date] at [time of day]"
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+#: widgets/dribbble-widget.php:11
+msgid "Dribbble Widget"
+msgstr "Dribbble Widget"
+
+#: widgets/flickr-widget.php:14
+msgid "Flickr Widget"
+msgstr "Flickr Widget"
+
+#. Template Name of the theme
+msgid "No sidebar template"
+msgstr "No sidebar template"
+
+#. Template Name of the theme
+msgid "Full width template"
+msgstr "Full Width Template"
+
+#. Template Name of the theme
+msgid "Contributors template"
+msgstr "Contributors template"
+
+#. Template Name of the theme
+msgid "Archive template"
+msgstr "Archive template"
+
+#: widgets/flickr-widget.php:70
+msgid "Flickr ID (use <a target=\"_blank\" href=\"http://www.idgettr.com\">idGettr</a>):"
+msgstr "Flickr ID (use <a target=\"_blank\" href=\"http://www.idgettr.com\">idGettr</a>):"
+
+#: widgets/flickr-widget.php:41
+msgid "More on Flickr"
+msgstr "More on Flickr"
+
+#: widgets/flickr-widget.php:11
+msgid "Displays your latest Flickr photos."
+msgstr "Displays your latest Flickr photos."
+
+#: widgets/flickr-widget.php:75 widgets/dribbble-widget.php:93
+msgid "Number of images to display:"
+msgstr "Number of images to display:"
+
+#: widgets/dribbble-widget.php:87
+msgid "Dribbble username"
+msgstr "Dribbble username"
+
+#: widgets/flickr-widget.php:65 widgets/dribbble-widget.php:81
+msgid "Title"
+msgstr "Title"
+
+#: widgets/dribbble-widget.php:54
+msgid "Follow %s on Dribbble"
+msgstr "Follow %s on Dribbble"
+
+#: widgets/dribbble-widget.php:10
+msgid "Displays your latest Dribbble photos."
+msgstr "Displays your latest Dribbble photos."
+
+#: template-archives.php:130
+msgid "Archives by Day"
+msgstr "Archives by Day"
+
+#: template-archives.php:124
+msgid "Archives by Month"
+msgstr "Archives by Month"
+
+#: template-archives.php:118
+msgid "Archives by Year"
+msgstr "Archives by Year"
+
+#: template-archives.php:112
+msgid "Contributors"
+msgstr "Contributors"
+
+#: template-archives.php:96
+msgid "Archives by Tags"
+msgstr "Archives by Tags"
+
+#: template-archives.php:84
+msgid "Archives by Categories"
+msgstr "Archives by Categories"
+
+#: template-archives.php:64
+msgid "Last 30 Posts"
+msgstr "Last 30 Posts"
+
+#: single.php:237
+msgid "Edit post"
+msgstr "Edit Post"
+
+#: single.php:232
+msgid "Next post"
+msgstr "Next Post"
+
+#: single.php:224
+msgid "Previous post"
+msgstr "Previous Post"
+
+#: single.php:190
+msgid "Author website"
+msgstr "Author website"
+
+#: single.php:182
+msgid "Author archive"
+msgstr "Author archive"
+
+#: functions.php:428 searchform.php:12
+msgid "Search"
+msgstr "Search"
+
+#: index.php:74
+msgid "No results. Try again, would you kindly?"
+msgstr "No results. Would you like to try again?"
+
+#: index.php:17
+msgid "Search results"
+msgstr "Search Results"
+
+#: image.php:43
+msgid "About the attachment"
+msgstr "About the attachment"
+
+#: functions.php:593 functions.php:603
+msgid "Logo"
+msgstr "Logo"
+
+#: functions.php:548
+msgid "Awaiting moderation"
+msgstr "Awaiting moderation"
+
+#: functions.php:536 functions.php:560
+msgid "Reply"
+msgstr "Reply"
+
+#: functions.php:534 functions.php:558
+msgid "Edit"
+msgstr "Edit"
+
+#: functions.php:508
+msgid "(Edit)"
+msgstr "(Edit)"
+
+#: functions.php:508
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:307
+msgid "Continue Reading"
+msgstr "Continue Reading"
+
+#: functions.php:193
+msgid "Widgets in this area will be shown in the sidebar."
+msgstr "Widgets in this area will be shown in the sidebar."
+
+#: functions.php:191
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions.php:183
+msgid "Widgets in this area will be shown in the right column in the footer."
+msgstr "Widgets in this area will be shown in the right column in the footer."
+
+#: functions.php:181
+msgid "Footer C"
+msgstr "Footer C"
+
+#: functions.php:173
+msgid "Widgets in this area will be shown in the middle column in the footer."
+msgstr "Widgets in this area will be shown in the middle column in the footer."
+
+#: functions.php:171
+msgid "Footer B"
+msgstr "Footer B"
+
+#: functions.php:163
+msgid "Widgets in this area will be shown in the left column in the footer."
+msgstr "Widgets in this area will be shown in the left column in the footer."
+
+#: functions.php:161
+msgid "Footer A"
+msgstr "Footer A"
+
+#: footer.php:69
+msgid "Up"
+msgstr "Up"
+
+#: footer.php:69
+msgid "Theme by <a href=\"%s\">Anders Noren</a>"
+msgstr "Theme by <a href=\"%s\">Anders Noren</a>"
+
+#: footer.php:63
+msgid "Powered by <a href=\"%s\">WordPress</a>"
+msgstr "Powered by <a href=\"%s\">WordPress</a>"
+
+#: sidebar.php:60
+msgid "These widgets are displayed because you haven't added any widgets of your own yet. You can do so at Appearance > Widgets in the WordPress settings."
+msgstr "These widgets are displayed because you haven't added any widgets of your own yet. You can do so at Appearance > Widgets in the WordPress settings."
+
+#: sidebar.php:56
+msgid "Text widget"
+msgstr "Text widget"
+
+#: sidebar.php:25
+msgid "Latest posts"
+msgstr "Latest posts"
+
+#: searchform.php:10
+msgid "Search form"
+msgstr "Search Form"
+
+#: content-link.php:7 content-gallery.php:7 content.php:7 content-image.php:1
+#: content-image.php:7 content-audio.php:7 content-video.php:7
+#: content-quote.php:7 content-status.php:7 content-aside.php:7
+msgid "Sticky post"
+msgstr "Sticky Post"
+
+#: template-contributors.php:88
+msgid "Website"
+msgstr "Website"
+
+#: comments.php:81
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: comments.php:67
+msgid "Newer Comments"
+msgstr "Newer Comments"
+
+#: comments.php:65
+msgid "Older Comments"
+msgstr "Older Comments"
+
+#: comments.php:47
+msgid "Pingback"
+msgid_plural "Pingbacks"
+msgstr[0] "Pingback"
+msgstr[1] "Pingbacks"
+
+#: comments.php:25
+msgid "Add yours"
+msgstr "Add yours"
+
+#: comments.php:19
+msgid "Comment"
+msgid_plural "Comments"
+msgstr[0] "Comment"
+msgstr[1] "Comments"
+
+#: index.php:94
+msgid "Newer posts"
+msgstr "Newer posts"
+
+#: index.php:92
+msgid "Older posts"
+msgstr "Older posts"
+
+#: functions.php:395 functions.php:430
+msgid "Archives"
+msgstr "Archives"
+
+#: functions.php:417
+msgid "Author"
+msgstr "Author"
+
+#: functions.php:415
+msgid "Tag"
+msgstr "Tag"
+
+#: functions.php:413
+msgid "Category"
+msgstr "Category"
+
+#: functions.php:419
+msgid "Year"
+msgstr "Year"
+
+#: functions.php:421
+msgid "Month"
+msgstr "Month"
+
+#: 404.php:19
+msgid "It seems like you have tried to open a page that doesn't exist. It could have been deleted, moved, or it never existed at all. You are welcome to search for what you are looking for with the form below."
+msgstr "It seems like you have tried to open a page that doesn't exist. It could have been deleted, moved, or it never existed at all. You are welcome to search for what you're looking for with the form below."
+
+#: 404.php:13
+msgid "Error 404"
+msgstr "Error 404"
+
+#. Author URI of the theme
+msgid "https://www.andersnoren.se"
+msgstr "https://www.andersnoren.se/"
+
+#. Author of the theme
+msgid "Anders Norén"
+msgstr "Anders Norén"
+
+#. Theme URI of the theme
+msgid "https://www.andersnoren.se/teman/baskerville-wordpress-theme/"
+msgstr "https://www.andersnoren.se/teman/baskerville-wordpress-theme/"
