@@ -2,7 +2,8 @@
 /**
  * Plugin Name: Tea Bag plugin
  * Plugin URI: http://www.mywebsite.com/my-first-plugin
- * Description: My tea bag plugin
+ * Description: My tea bag plugin, the results depend of the hour, at 17h from UK, it will return the tea form-post
+ * created, if it's not 17h in the UK, will recommend a random post from the last 5 created.
  * Version: 0.1
  * Author: Oriol Filter
  * Author URI: teabag.con
