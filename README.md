@@ -93,7 +93,7 @@ properties and history, while allowing users to comment on it and engage a discu
 
 ### Custom plugin
 
-```injectablephp
+```php
 <?php
 /**
  * Plugin Name: Tea Bag plugin
