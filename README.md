@@ -1,5 +1,8 @@
 # Teabag 
 
+The idea behind the page, is to provide a centralized  web that contains information about tea, talking about its
+properties and history, while allowing users to comment on it and engage a discussion/debate with each others.  
+
  > List of all things done
 
 - Wodrpess webside using dockers
@@ -119,3 +122,6 @@ function random_post ( $content ) {
 }
 ```
 ###### Needs to do 17-1, due date returning the universal time (UTC)
+
+### Since its done using dockers, it's easy to set up volume backups. 
+### "updated the password", yet it was replaced to "a", due development applications, but can be easily replaced again.
